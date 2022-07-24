@@ -1,2 +1,2 @@
 # restapi
-Rest api using flask + mysql
+Rest api using flask + mysql for development purpose
